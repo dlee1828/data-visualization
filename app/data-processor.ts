@@ -76,7 +76,6 @@ export class DataProcessor {
       heatmapData.push(row);
     }
 
-    console.log(heatmapData);
     return heatmapData;
   }
 
